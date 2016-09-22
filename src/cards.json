@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Read the book",
+    "description": "i should read the wole book",
+    "color":"#abecef",
+    "status": "in-progress",
+    "tasks":[
+     {
+       "id":"1",
+       "name":"ContactList example",
+       "done":"true"
+     },
+     {
+       "id":"2",
+       "name":"Kanban example",
+       "done":"false"
+     },
+     {
+       "id":"3",
+       "name":"My own experiments",
+       "done":"false"
+     },
+   ]
+  },
+  {
+    "id": "2",
+    "title": "Write some code",
+    "description": "Code along with the samples in the book",
+    "color":"#0000ff",
+    "status": "todo",
+    "tasks":[
+      {
+        "id":"1",
+        "name":"ContactList example",
+        "done":"true"
+      },
+      {
+        "id":"2",
+        "name":"Kanban example",
+        "done":"false"
+      },
+      {
+        "id":"3",
+        "name":"My own experiments",
+        "done":"false"
+      },
+    ]
+  },
+  {
+   "id": "3",
+   "title": "Clean dektop",
+   "description": "i should Clean",
+    "color":"#8ffd31",
+   "status": "done",
+   "tasks":[
+     {
+       "id":"1",
+       "name":"ContactList example",
+       "done":"true"
+     },
+     {
+       "id":"2",
+       "name":"Kanban example",
+       "done":"false"
+     },
+     {
+       "id":"3",
+       "name":"My own experiments",
+       "done":"false"
+     },
+   ]
+  }
+]
