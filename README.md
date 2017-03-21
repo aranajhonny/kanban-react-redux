@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Folder Structure
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aranajhonny/kanban-react-redux.svg)](https://greenkeeper.io/)
+
 After creation, your project should look like this:
 
 ```
